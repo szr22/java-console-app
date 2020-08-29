@@ -1,6 +1,7 @@
 
 *.iml
 .idea/*
+lib/*
 out/*
 .DS_Store
 test-console-app/.idea/*
