@@ -5,3 +5,4 @@ lib/*
 out/*
 .DS_Store
 test-console-app/.idea/*
+test-console-app/out/*
