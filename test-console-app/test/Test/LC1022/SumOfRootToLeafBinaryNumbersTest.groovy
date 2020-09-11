@@ -1,6 +1,6 @@
 package Test.LC1022
 
-import LC1022.SumOfRootToLeafBinaryNumbers
+import com.company.LC1022.SumOfRootToLeafBinaryNumbers
 import com.company.util.TreeNode
 import org.junit.Test
 
